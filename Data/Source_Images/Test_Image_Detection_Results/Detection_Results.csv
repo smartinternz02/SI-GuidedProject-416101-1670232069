@@ -1,0 +1,10 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+BacterialBlight11.jpg,D:\Rice crop disease\Data\Source_Images\Test_Images\BacterialBlight11.jpg,146,83,382,309,1,0.33524295687675476,474,316
+BacterialBlight11.jpg,D:\Rice crop disease\Data\Source_Images\Test_Images\BacterialBlight11.jpg,146,83,382,309,0,0.41133156418800354,474,316
+BacterialBlight3.jpg,D:\Rice crop disease\Data\Source_Images\Test_Images\BacterialBlight3.jpg,0,17,561,600,1,0.25619930028915405,1536,1536
+BacterialBlight9.jpg,D:\Rice crop disease\Data\Source_Images\Test_Images\BacterialBlight9.jpg,142,86,329,547,0,0.302467405796051,474,632
+LeafSmut12.jpg,D:\Rice crop disease\Data\Source_Images\Test_Images\LeafSmut12.jpg,152,140,324,503,1,0.3927185833454132,474,631
+LeafSmut15.jpg,D:\Rice crop disease\Data\Source_Images\Test_Images\LeafSmut15.jpg,51,88,422,244,1,0.6131265163421631,474,314
+LeafSmut15.jpg,D:\Rice crop disease\Data\Source_Images\Test_Images\LeafSmut15.jpg,51,88,422,244,0,0.49977898597717285,474,314
+LeafSmut4.jpg,D:\Rice crop disease\Data\Source_Images\Test_Images\LeafSmut4.jpg,1658,113,2294,2413,0,0.26291027665138245,3872,2592
+WhiteTip8.jpg,D:\Rice crop disease\Data\Source_Images\Test_Images\WhiteTip8.jpg,391,52,436,130,2,0.2752910256385803,474,316
