@@ -1,5 +1,5 @@
-# SI-GuidedProject-416101-1670232069
-Rice Crop Disease Detection using YOLO
+# Rice Crop Disease Detection using YOLO
+
 
 Category: Deep Learning
 
